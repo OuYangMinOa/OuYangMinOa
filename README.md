@@ -6,4 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuYangMinOa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![OuYang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OuYangMinOa)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OuYangMinOa&repo=Lyto-Different-Color)](https://github.com/anuraghazra/github-readme-stats)
