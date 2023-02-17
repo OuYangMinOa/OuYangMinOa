@@ -2,4 +2,4 @@
 
 
 
-![OuYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuYang&count_private=true&include_all_commits=true)
+![OuYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuYangMinOa&count_private=true&include_all_commits=true)
